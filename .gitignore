@@ -1,0 +1,76 @@
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos y carpetas de Unity
+Library/
+Temp/
+Logs/
+Obj/
+Build/
+Builds/
+UserSettings/
+MemoryCaptures/
+
+# Archivos de paquetes y dependencias
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Archivos del Editor
+.vscode/
+.idea/
+*.swp
+*.bak
+*.orig
+*.TMP
+*.tmp
+*.log
+*.obj
+*.idb
+*.sdf
+*.suo
+*.user
+*.rsuser
+*.rsbo
+*.rsapk
+*.ress
+*.cmake
+*.sln.ide
+*.lnk
+
+# Archivos de configuración de editor específicos de Visual Studio y Rider
+.vscode/
+*.csproj
+*.pidb
+*.suo
+*.sln
+*.userprefs
+*.user
+.vs/
+.idea/
+*.tmproj
+
+# Carpetas específicas de Unity
+ProjectSettings/UnityConnectSettings.asset
+ProjectSettings/EditorSettings.asset
+ProjectSettings/QualitySettings.asset
+ProjectSettings/TagManager.asset
+ProjectSettings/TimeManager.asset
+
+# Carpetas específicas de Builds
+Build/
+Builds/
+AssetBundles/
+obj/
